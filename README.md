@@ -22,7 +22,7 @@ and compute the prices for us. Note that before running Simulation.java, one sho
 
 ## Authors
 
-* **Xiao Guan** - *Initial work* - [Exchange](https://github.com/guan4015/Middleware)
+* **Xiao Guan** - *Initial work* - [Middleware](https://github.com/guan4015/Middleware)
 
 
 ## Acknowledgments
